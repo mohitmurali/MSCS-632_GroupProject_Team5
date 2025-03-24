@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1742781325553,
+    "date": "2024-12-25",
+    "amount": 100.0,
+    "category": "Transportation",
+    "description": "Travel"
+  },
+  {
+    "id": 1742781449671,
+    "date": "2025-01-10",
+    "amount": 10.0,
+    "category": "Food",
+    "description": "Lunch Bill"
+  }
+]
