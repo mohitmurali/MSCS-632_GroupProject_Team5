@@ -26,3 +26,7 @@ The **Expense Tracker** is an application to help users track, manage, and analy
 1. Clone this repository - git clone
 2. npm install
 3. node expenseTracker.js
+
+### Python
+1. sudo apt install python3
+2. python3 expenseTracker.py
