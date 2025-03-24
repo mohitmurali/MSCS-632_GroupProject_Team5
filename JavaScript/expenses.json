@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1742736180056,
+    "date": "2025-03-23",
+    "amount": 10,
+    "category": "Food",
+    "description": "Coffee"
+  },
+  {
+    "id": 1742773852610,
+    "date": "2025-03-23",
+    "amount": 80,
+    "category": "Transportation",
+    "description": "Flight"
+  },
+  {
+    "id": 1742774092528,
+    "date": "2025-03-23",
+    "amount": 75,
+    "category": "Transportation",
+    "description": "Flight"
+  },
+  {
+    "id": 1742774222467,
+    "date": "2025-03-10",
+    "amount": 1,
+    "category": "Groceries",
+    "description": "Chewing gum"
+  },
+  {
+    "id": 1742774505158,
+    "date": "2025-03-15",
+    "amount": 17,
+    "category": "Food",
+    "description": "Rice Bowl"
+  }
+]
